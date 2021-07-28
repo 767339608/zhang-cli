@@ -1,0 +1,209 @@
+.content{
+    position: relative;
+    border: 1px solid #21617C;
+    background: radial-gradient(circle, rgba(10, 16, 52, 0) 0%, #071F43 100%);
+    height: '100%';
+    background-color:'gray';
+    width: 100%;
+    padding: 20px;
+    min-height: 500px;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    border-radius: 40px;
+
+    .d{
+        position: absolute;
+        width: 80px;
+    }
+
+    .d:nth-child(3){
+        top: 0;
+        left: 0;
+    }
+    .d:nth-child(4){
+        top: 0;
+        right: 0;
+    }
+    .d:nth-child(5){
+        bottom: 0;
+        left: 0;
+    }
+    .d:nth-child(6){
+        bottom: 0;
+        right: 0;
+    }
+}
+
+.name{
+    font-size: 35px;
+    font-family: PingFang SC;
+    font-weight: 400;
+    color: #FEC43C;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.subTitle{
+    font-size: 30px;
+    font-family: PingFang SC;
+    font-weight: 400;
+    color: #FEC43C;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.table{
+    border:1px solid #0092E5; 
+    width: 100%;
+
+    tbody tr td{
+        border: 1px solid #0092E5;
+        // padding: 4px 10px;
+        // font-size: 18px;
+        font-family: Arial;
+        font-weight: bold;
+        line-height: 21px;
+        color: #fff;
+        transition: .4s;
+        user-select: none;
+        text-align: center;
+        white-space: nowrap;
+    }
+}
+
+.labelStatus{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+
+    div{
+        display: inline-flex;
+        width: 30px;
+        height: 18px;
+        margin-right: 10px;
+        margin-left: 25px;
+    }
+
+    div:nth-child(1){
+        background-color: #363C8A;
+    }
+
+    div:nth-child(2){
+        background-color: #FFD500;
+    }
+
+    div:nth-child(3){
+        background-color: #FF4652;
+    }
+
+    div:nth-child(4){
+        background-color: #595D75;
+    }
+}
+
+.room_status_0{
+    background-color: transparent;
+    cursor: pointer;
+}
+.room_status_1{
+    background-color: #FFD500;
+}
+.room_status_2{
+    background-color: #FF4652;
+}
+.room_status_3{
+    background-color: #595D75;
+    cursor: not-allowed;
+}
+.room_status_4{
+    opacity: 0;
+}
+
+.modal_btn{
+    opacity: 1;
+    border-radius: 50px;
+    padding: 8px 40px;
+    font-size: 16px;
+    font-family: PingFang SC;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.modal_btn_cancel{
+    background: #ffffff;
+    color: #333333;
+    border: 1px solid #D9D9D9;
+}
+
+.modal_btn_confirm{
+    background: #D32E32;
+    color: #fff;
+}
+
+.houseItem{
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.line{
+    position: relative;
+    --scale-v: var(--scale);
+    
+    &::before{
+        content: "";
+        position: absolute;
+        border-left-color: red;
+        border-left-style: dashed;
+        border-left-width: 1px;
+        height: 400vh;
+        top: -200vh;
+        left: 0;
+        z-index: 100;
+        transform: scale(calc(1/var(--scale-v)));
+    }
+
+    &::after{
+        content: "";
+        position: absolute;
+        width: 400vw;
+        border-top-color: red;
+        border-top-style: dashed;
+        border-top-width: 1px;
+        top: 0;
+        left: -200vw;
+        z-index: 100;
+        transform: scale(calc(1/var(--scale-v)));
+    }
+}
+
+.usrBox{
+    position: relative;
+    &::before{
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 50px;
+        height: 6px;
+        background-image: url('../../assets/images/l_t_r.png');
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+
+    &::after{
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 50px;
+        height: 6px;
+        background-image: url('../../assets/images/l_b_r.png');
+        background-size: 100%;
+    }
+}

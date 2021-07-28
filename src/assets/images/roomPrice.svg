@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #d0d3d9;
+      }
+
+      .cls-3 {
+        fill: #09163a;
+        font-size: 15px;
+        font-family: PingFangSC-Semibold, PingFang SC;
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="房源总价" transform="translate(-134 -891)">
+    <g id="矩形_4357" data-name="矩形 4357" class="cls-1" transform="translate(134 891)">
+      <rect class="cls-4" width="28" height="28"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="27" height="27"/>
+    </g>
+    <g id="组_12512" data-name="组 12512" transform="translate(0.24 33)">
+      <g id="组_12513" data-name="组 12513">
+        <path id="联合_23" data-name="联合 23" class="cls-2" d="M-3456.281-2658.361a2.358,2.358,0,0,1-2.359-2.358v-16.562a2.358,2.358,0,0,1,2.359-2.358h16.562a2.358,2.358,0,0,1,2.359,2.358v16.563a2.358,2.358,0,0,1-2.359,2.358Z" transform="translate(3595.4 3541.4)"/>
+        <text id="_" data-name="￥" class="cls-3" transform="translate(140 878)"><tspan x="0" y="0">￥</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

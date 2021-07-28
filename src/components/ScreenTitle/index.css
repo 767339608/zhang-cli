@@ -1,0 +1,31 @@
+.signheader {
+  height: calc(209px*var(--multiple));
+  line-height: calc(209px*var(--multiple));
+  padding: 0 calc(40px*var(--multiple));
+  font-family: PingFang SC;
+  font-weight: 400;
+  align-items: center;
+  width: 100%;
+  color: #FEC43C;
+  display: flex;
+  justify-content: space-between;
+  user-select: none;
+  background-image: url(../../assets/images/signTitleBgcolor.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.signheader .projectName {
+  font-size: calc(54px*var(--multiple));
+}
+.signheader .headerTitle {
+  font-size: calc(40px*var(--multiple));
+  display: flex;
+  align-items: center;
+}
+.signheader .hint {
+  width: 1px;
+  height: calc(33px*var(--multiple));
+  margin: 0 calc(24px*var(--multiple));
+  background: #FEC43C;
+}

@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1919.945" height="210.926" viewBox="0 0 1919.945 210.926">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #640c3e;
+      }
+
+      .cls-2 {
+        fill: #26143a;
+      }
+
+      .cls-3 {
+        fill: #8e6796;
+      }
+
+      .cls-4 {
+        opacity: 0.985;
+      }
+
+      .cls-5 {
+        opacity: 0.342;
+      }
+
+      .cls-6 {
+        fill: #390937;
+      }
+
+      .cls-7 {
+        opacity: 0.135;
+      }
+
+      .cls-8 {
+        opacity: 0.834;
+      }
+
+      .cls-9 {
+        fill: #28292c;
+      }
+
+      .cls-10 {
+        fill: #171a1d;
+      }
+
+      .cls-11 {
+        opacity: 0.4;
+      }
+
+      .cls-11, .cls-12, .cls-13 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-12 {
+        opacity: 0.44;
+      }
+
+      .cls-14 {
+        fill: none;
+        stroke: #32a0bb;
+      }
+
+      .cls-15 {
+        fill: #e9af35;
+      }
+
+      .cls-16 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-17 {
+        fill: url(#linear-gradient-9);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#950844"/>
+      <stop offset="1" stop-color="#0a1034"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.922" y1="0.721" x2="0.04" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feba39"/>
+      <stop offset="1" stop-color="#feba39" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0.922" y1="0.279" x2="0.04" y2="0.5" xlink:href="#linear-gradient-8"/>
+  </defs>
+  <g id="背景上" transform="translate(0 1.499)">
+    <path id="减去_50" data-name="减去 50" class="cls-1" d="M-3418.364-2620.335h0l-29.556-2.216,12.273-3.949h21.945l-4.662,6.165Z" transform="translate(3454 2626)"/>
+    <path id="减去_51" data-name="减去 51" class="cls-2" d="M-3430.175-2597.058l-8.15-25.452,4.549-5.99h6.337l-2.733,31.442Z" transform="translate(3474 2628)"/>
+    <g id="组_12529" data-name="组 12529">
+      <g id="组_12033" data-name="组 12033">
+        <g id="组_11931" data-name="组 11931" transform="translate(-148.63 -789.732) rotate(14)">
+          <path id="路径_775" data-name="路径 775" class="cls-1" d="M3287.129,2183l-11.065,25.942-42.407,7.259Z" transform="translate(-2098 -1597.313)"/>
+          <path id="路径_776" data-name="路径 776" class="cls-2" d="M3393.577,2241.361l-20.42-32.992,11.072-25.818Z" transform="translate(-2195.1 -1597)"/>
+          <path id="路径_777" data-name="路径 777" class="cls-3" d="M3233.657,2275.279l62.595,25.231-20.126-32.634Z" transform="translate(-2098 -1656.391)"/>
+        </g>
+        <g id="组_11933" data-name="组 11933" class="cls-4" transform="translate(-948.63 -861.732) rotate(14)">
+          <path id="路径_777-2" data-name="路径 777" class="cls-3" d="M3233.657,2272.976l43.122,17.382-13.865-22.482Z" transform="translate(-2098 -1664.459)"/>
+        </g>
+        <g id="组_11932" data-name="组 11932" class="cls-5" transform="translate(476.37 -705.732) rotate(14)">
+          <path id="路径_775-2" data-name="路径 775" class="cls-1" d="M3287.129,2183l-11.065,25.942-42.407,7.259Z" transform="translate(-2098 -1597.313)"/>
+          <path id="路径_776-2" data-name="路径 776" class="cls-6" d="M3393.577,2241.361l-20.42-32.992,11.072-25.818Z" transform="translate(-2195.1 -1597)"/>
+          <path id="路径_777-3" data-name="路径 777" class="cls-3" d="M3233.657,2275.279l62.595,25.231-20.126-32.634Z" transform="translate(-2098 -1656.391)"/>
+        </g>
+        <g id="组_11934" data-name="组 11934" class="cls-7" transform="matrix(-0.342, -0.94, 0.94, -0.342, 1960.839, 1085.699)">
+          <path id="路径_778" data-name="路径 778" class="cls-3" d="M2303.537,3469.571l10.221,25.3-33.412-15.243Z" transform="translate(-1234 -3444.693)"/>
+          <path id="路径_779" data-name="路径 779" class="cls-1" d="M2430.576,3430.071l-15.355,6.826,10.224,25.413Z" transform="translate(-1345.63 -3412)"/>
+        </g>
+      </g>
+      <g id="组_11934-2" data-name="组 11934" class="cls-8" transform="matrix(-0.342, -0.94, 0.94, -0.342, 1960.839, 1085.699)">
+        <path id="路径_778-2" data-name="路径 778" class="cls-9" d="M2303.537,3469.571l10.221,25.3-33.412-15.243Z" transform="translate(-1234 -3444.693)"/>
+        <path id="路径_779-2" data-name="路径 779" class="cls-10" d="M2430.576,3430.071l-15.355,6.826,10.224,25.413Z" transform="translate(-1345.63 -3412)"/>
+      </g>
+      <g id="组_11981" data-name="组 11981" transform="translate(-1.808)">
+        <path id="路径_795" data-name="路径 795" class="cls-11" d="M5747.812-1078l-45,64h760l-53.956-64Z" transform="translate(-5617 1078)"/>
+        <path id="路径_794" data-name="路径 794" class="cls-12" d="M5747.838-1078l-45.03,64h760.445l-53.987-64Z" transform="translate(-5429.445 1078)"/>
+        <path id="路径_792" data-name="路径 792" class="cls-12" d="M5747.812-1078l-45,64h760l-53.956-64Z" transform="translate(-5266 1078)"/>
+      </g>
+      <g id="组_11982" data-name="组 11982" transform="translate(725)">
+        <path id="路径_795-2" data-name="路径 795" class="cls-11" d="M6417.8-1078l45,64h-760l53.956-64Z" transform="translate(-5351.808 1078)"/>
+        <path id="路径_794-2" data-name="路径 794" class="cls-12" d="M6418.223-1078l45.03,64H5702.808l53.987-64Z" transform="translate(-5539.808 1078)"/>
+        <path id="路径_792-2" data-name="路径 792" class="cls-12" d="M6417.8-1078l45,64h-760l53.956-64Z" transform="translate(-5702.808 1078)"/>
+      </g>
+      <path id="路径_793" data-name="路径 793" class="cls-13" d="M5747.838-1078l-45.03,63.1h760.445l-53.987-63.1Z" transform="translate(-5147 1078)"/>
+      <g id="组_11984" data-name="组 11984">
+        <path id="路径_797" data-name="路径 797" class="cls-14" d="M5156.89-2264.162l521.989.829,10.47-11.583h227.334" transform="translate(-5126 2303)"/>
+        <rect id="矩形_4289" data-name="矩形 4289" class="cls-15" width="22" height="6" rx="3" transform="translate(784 25)"/>
+        <path id="联合_20" data-name="联合 20" class="cls-16" d="M87.375,7.392,98.439,0h4.383L92.07,7.392Zm-6.8,0L91.643,0h4.383L85.274,7.392Zm-7.281,0L84.362,0h4.383L77.993,7.392Zm-7.281,0L77.081,0h4.382L70.711,7.392Zm-6.31,0L70.771,0h4.383L64.4,7.392Zm-7.282,0L63.49,0h4.383L57.12,7.392Zm-7.281,0L56.209,0h4.383L49.839,7.392Zm-7.767,0L48.442,0h4.383L42.071,7.392Zm-7.767,0L40.675,0h4.383L34.305,7.392Zm-6.8,0L33.879,0h4.383L27.509,7.392Zm-7.766,0L26.113,0h4.382L19.742,7.392Zm-7.281,0L18.831,0h4.383L12.461,7.392ZM0,7.392,11.065,0h4.383L4.694,7.392Zm-7.623,0L3.442,0H7.825L-2.929,7.392Zm-7.767,0L-4.325,0H.058L-10.695,7.392Zm-6.8,0L-11.121,0h4.383L-17.491,7.392Zm-7.766,0L-18.887,0h4.382L-25.258,7.392Zm-7.281,0L-26.169,0h4.383L-32.539,7.392Zm-7.767,0L-33.935,0h4.383L-40.306,7.392Z" transform="translate(452.746 27.594)"/>
+      </g>
+      <path id="路径_811" data-name="路径 811" class="cls-14" d="M5147,260.179H7066.945" transform="translate(-5147 -215)"/>
+      <g id="组_11985" data-name="组 11985" transform="translate(1114.89 25)">
+        <path id="路径_797-2" data-name="路径 797" class="cls-14" d="M5916.683-2264.162l-521.989.829-10.47-11.583H5156.89" transform="translate(-5141.573 2278)"/>
+        <rect id="矩形_4289-2" data-name="矩形 4289" class="cls-15" width="22" height="6" rx="3"/>
+        <path id="联合_20-2" data-name="联合 20" class="cls-17" d="M132.375,0l11.065,7.392h4.383L137.07,0Zm-6.8,0,11.065,7.392h4.383L130.274,0ZM118.3,0l11.065,7.392h4.383L122.993,0Zm-7.281,0,11.065,7.392h4.382L115.711,0Zm-6.31,0,11.064,7.392h4.383L109.4,0ZM97.425,0,108.49,7.392h4.383L102.12,0ZM90.144,0l11.065,7.392h4.383L94.839,0ZM82.377,0,93.442,7.392h4.383L87.071,0ZM74.61,0,85.675,7.392h4.383L79.305,0Zm-6.8,0L78.879,7.392h4.383L72.509,0ZM60.048,0,71.113,7.392h4.382L64.742,0ZM52.767,0,63.831,7.392h4.383L57.461,0ZM45,0,56.065,7.392h4.383L49.694,0ZM37.377,0,48.442,7.392h4.383L42.071,0ZM29.61,0,40.675,7.392h4.383L34.305,0Zm-6.8,0L33.879,7.392h4.383L27.509,0ZM15.048,0,26.113,7.392h4.382L19.742,0ZM7.767,0,18.831,7.392h4.383L12.461,0ZM0,0,11.065,7.392h4.383L4.694,0Z" transform="translate(398.254 9.985) rotate(180)"/>
+      </g>
+    </g>
+  </g>
+</svg>

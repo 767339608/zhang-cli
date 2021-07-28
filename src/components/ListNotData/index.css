@@ -1,0 +1,11 @@
+.NotData {
+  font-size: 15px;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #666666;
+  text-align: center;
+  margin-top: 25%;
+}
+.NotData div {
+  margin-top: 17px;
+}

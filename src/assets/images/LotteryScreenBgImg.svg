@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1922.65" height="584.866" viewBox="0 0 1922.65 584.866">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.14;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #8e6796;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        opacity: 0.572;
+      }
+
+      .cls-4 {
+        opacity: 0.227;
+      }
+
+      .cls-5 {
+        opacity: 0.416;
+      }
+    </style>
+  </defs>
+  <g id="背景下" class="cls-1" transform="translate(-2097.109 -3312.984)">
+    <line id="直线_29" data-name="直线 29" class="cls-2" x2="1920" transform="translate(2098.5 3874.5)"/>
+    <line id="直线_30" data-name="直线 30" class="cls-2" x2="1920" transform="translate(2098.5 3830.5)"/>
+    <line id="直线_31" data-name="直线 31" class="cls-2" x2="1920" transform="translate(2098.5 3786.5)"/>
+    <line id="直线_32" data-name="直线 32" class="cls-2" x2="1920" transform="translate(2098.5 3748.5)"/>
+    <line id="直线_33" data-name="直线 33" class="cls-2" x2="1920" transform="translate(2098.5 3714.5)"/>
+    <line id="直线_14" data-name="直线 14" class="cls-3" y1="337" x2="348" transform="translate(2098.5 3515.5)"/>
+    <line id="直线_28" data-name="直线 28" class="cls-4" y1="310" x2="360" transform="translate(2098.5 3410.5)"/>
+    <line id="直线_38" data-name="直线 38" class="cls-4" y1="276" x2="367" transform="translate(2098.5 3385.5)"/>
+    <line id="直线_39" data-name="直线 39" class="cls-4" y1="310" x2="360" transform="translate(2098.5 3314.5)"/>
+    <line id="直线_15" data-name="直线 15" class="cls-3" y1="353" x2="323" transform="translate(2221.5 3543.5)"/>
+    <line id="直线_16" data-name="直线 16" class="cls-3" y1="390" x2="256" transform="translate(2402.5 3506.5)"/>
+    <line id="直线_17" data-name="直线 17" class="cls-3" y1="390" x2="194" transform="translate(2577.5 3506.5)"/>
+    <line id="直线_18" data-name="直线 18" class="cls-3" y1="398" x2="118" transform="translate(2752.5 3498.5)"/>
+    <line id="直线_19" data-name="直线 19" class="cls-3" y1="398" x2="48" transform="translate(2928.5 3498.5)"/>
+    <line id="直线_20" data-name="直线 20" class="cls-3" x1="34" y1="398" transform="translate(3070.5 3498.5)"/>
+    <line id="直线_21" data-name="直线 21" class="cls-3" x1="115" y1="392" transform="translate(3166.5 3498.5)"/>
+    <line id="直线_22" data-name="直线 22" class="cls-3" x1="177" y1="384" transform="translate(3281.5 3509.5)"/>
+    <line id="直线_23" data-name="直线 23" class="cls-3" x1="242" y1="365" transform="translate(3393.5 3528.5)"/>
+    <line id="直线_24" data-name="直线 24" class="cls-3" x1="296" y1="342" transform="translate(3514.5 3551.5)"/>
+    <line id="直线_25" data-name="直线 25" class="cls-3" x1="384" y1="350" transform="translate(3604.5 3543.5)"/>
+    <line id="直线_26" data-name="直线 26" class="cls-3" x1="394" y1="319" transform="translate(3624.5 3461.5)"/>
+    <line id="直线_27" data-name="直线 27" class="cls-3" x1="405" y1="283" transform="translate(3613.5 3391.5)"/>
+    <line id="直线_34" data-name="直线 34" class="cls-5" x2="1920" transform="translate(2098.5 3680.5)"/>
+    <line id="直线_35" data-name="直线 35" class="cls-5" x2="1920" transform="translate(2098.5 3654.5)"/>
+    <line id="直线_36" data-name="直线 36" class="cls-5" x2="1920" transform="translate(2098.5 3628.5)"/>
+    <line id="直线_37" data-name="直线 37" class="cls-5" x2="1920" transform="translate(2098.5 3590.5)"/>
+  </g>
+</svg>
