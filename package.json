@@ -9,9 +9,6 @@
     "build:test": "cross-env CROSSENV=test  TS_NODE_PROJECT=\"tsconfig-for-webpack-config.json\" webpack --config ./config/webpack.build.config.ts",
     "build:prod": "cross-env CROSSENV=prod TS_NODE_PROJECT=\"tsconfig-for-webpack-config.json\" webpack --config ./config/webpack.build.config.ts"
   },
-  "bin": {
-    "@zmh-cli": "./bin/index.js"
-  },
   "author": "zmh",
   "license": "MIT",
   "devDependencies": {
