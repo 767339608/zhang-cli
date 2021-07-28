@@ -15,8 +15,8 @@ const config = {
     //接口相关
     request: {
         prefix: {
-            test: 'https://test-xxkpapi.zje.com',//测试前缀
-            prod: 'https://xxkpapi.zje.com'//正式前缀
+            test: 'https://test-xx.com',//测试前缀
+            prod: 'https://xx.com'//正式前缀
         },//默认前缀
         suffix: "",//默认后缀
         //重复请求
